@@ -1,5 +1,3 @@
-
-
 -- Query Each Table to confirm data  --------------------------------
 
 SELECT * FROM departments;
